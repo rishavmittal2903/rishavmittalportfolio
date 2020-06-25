@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/rishavmittalportfolio/static/css/main.523af534.chunk.css",
-    "main.js": "/rishavmittalportfolio/static/js/main.737dfaa9.chunk.js",
-    "main.js.map": "/rishavmittalportfolio/static/js/main.737dfaa9.chunk.js.map",
+    "main.js": "/rishavmittalportfolio/static/js/main.54f0e0f7.chunk.js",
+    "main.js.map": "/rishavmittalportfolio/static/js/main.54f0e0f7.chunk.js.map",
     "runtime-main.js": "/rishavmittalportfolio/static/js/runtime-main.2ce2a998.js",
     "runtime-main.js.map": "/rishavmittalportfolio/static/js/runtime-main.2ce2a998.js.map",
     "static/css/2.d34346ea.chunk.css": "/rishavmittalportfolio/static/css/2.d34346ea.chunk.css",
-    "static/js/2.930bdb27.chunk.js": "/rishavmittalportfolio/static/js/2.930bdb27.chunk.js",
-    "static/js/2.930bdb27.chunk.js.map": "/rishavmittalportfolio/static/js/2.930bdb27.chunk.js.map",
+    "static/js/2.40cd42d8.chunk.js": "/rishavmittalportfolio/static/js/2.40cd42d8.chunk.js",
+    "static/js/2.40cd42d8.chunk.js.map": "/rishavmittalportfolio/static/js/2.40cd42d8.chunk.js.map",
     "index.html": "/rishavmittalportfolio/index.html",
-    "precache-manifest.f3aa02dc488eebff146ed62716750e2a.js": "/rishavmittalportfolio/precache-manifest.f3aa02dc488eebff146ed62716750e2a.js",
+    "precache-manifest.dac54aacd42310a2b93e6eb7f0e97de2.js": "/rishavmittalportfolio/precache-manifest.dac54aacd42310a2b93e6eb7f0e97de2.js",
     "service-worker.js": "/rishavmittalportfolio/service-worker.js",
     "static/css/2.d34346ea.chunk.css.map": "/rishavmittalportfolio/static/css/2.d34346ea.chunk.css.map",
     "static/css/main.523af534.chunk.css.map": "/rishavmittalportfolio/static/css/main.523af534.chunk.css.map",
-    "static/js/2.930bdb27.chunk.js.LICENSE.txt": "/rishavmittalportfolio/static/js/2.930bdb27.chunk.js.LICENSE.txt",
+    "static/js/2.40cd42d8.chunk.js.LICENSE.txt": "/rishavmittalportfolio/static/js/2.40cd42d8.chunk.js.LICENSE.txt",
     "static/media/style.css": "/rishavmittalportfolio/static/media/top-banner-bckg.51e16fab.jpg",
     "static/media/aboutme.jpg": "/rishavmittalportfolio/static/media/aboutme.76a00851.jpg",
     "static/media/banner.jpg": "/rishavmittalportfolio/static/media/banner.ad9fcf83.jpg",
@@ -25,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.2ce2a998.js",
     "static/css/2.d34346ea.chunk.css",
-    "static/js/2.930bdb27.chunk.js",
+    "static/js/2.40cd42d8.chunk.js",
     "static/css/main.523af534.chunk.css",
-    "static/js/main.737dfaa9.chunk.js"
+    "static/js/main.54f0e0f7.chunk.js"
   ]
 }
